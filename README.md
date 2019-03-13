@@ -1,5 +1,5 @@
-# Simulaciones
-Variados simulaciones de lanzamientos de dados.
+# Jugando con dados
+Variadas simulaciones de lanzamientos de dados.
 
 * Lanzamientos de un dado de 6 caras.
 
