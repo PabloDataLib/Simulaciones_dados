@@ -33,7 +33,7 @@ Acá hay más posibilidades. Al lanzar dos dados de 6 caras, tenemos resultados 
 Ahora ¿ves por qué en el juego de tablero *Catán* no sale el 7?
 
 ## Lanzamientos de dos dados de 20 caras.
-Ya acá tenemos resultados desde 2 hasta 40 en 15,000 lanzamientos!
+Aquí tenemos resultados de la suma de los dados, desde 2 hasta 40, en 15,000 lanzamientos!
 
 <p align="center">
 <img src="https://github.com/PabloDataLib/Simulaciones_dados/blob/master/imgs/2_Dados_20_caras.gif">
